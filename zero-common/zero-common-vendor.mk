@@ -144,7 +144,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zero-common/proprietary/lib/libexynosv4l2.so:system/lib/libexynosv4l2.so \
     vendor/samsung/zero-common/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
     vendor/samsung/zero-common/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
-    vendor/samsung/zero-common/proprietary/lib/libion.so:system/lib/libion.so \
     vendor/samsung/zero-common/proprietary/lib/libprotobuf-cpp-shim.so:system/lib/libprotobuf-cpp-shim.so \
     vendor/samsung/zero-common/proprietary/lib/libsavsac.so:system/lib/libsavsac.so \
     vendor/samsung/zero-common/proprietary/lib/libsavscmn.so:system/lib/libsavscmn.so \
@@ -221,8 +220,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zero-common/proprietary/lib64/libexynosv4l2.so:system/lib64/libexynosv4l2.so \
     vendor/samsung/zero-common/proprietary/lib64/libfloatingfeature.so:system/lib64/libfloatingfeature.so \
     vendor/samsung/zero-common/proprietary/lib64/libhr.so:system/lib64/libhr.so \
-    vendor/samsung/zero-common/proprietary/lib64/libhwjpeg.so:system/lib64/libhwjpeg.so \
-    vendor/samsung/zero-common/proprietary/lib64/libion.so:system/lib64/libion.so \
     vendor/samsung/zero-common/proprietary/lib64/libmaxflicker.so:system/lib64/libmaxflicker.so \
     vendor/samsung/zero-common/proprietary/lib64/libprotobuf-cpp-shim.so:system/lib64/libprotobuf-cpp-shim.so \
     vendor/samsung/zero-common/proprietary/lib64/libsavsac.so:system/lib64/libsavsac.so \
